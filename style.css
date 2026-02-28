@@ -667,3 +667,10 @@ html {
   text-align: center;
   line-height: 1.6;
 }
+
+.projects-description{
+  max-width: 520px;          /* ajusta: 480–600 según gusto */
+  margin: 0 auto 28px auto;  /* centrado + separación hacia las cards */
+  text-align: center;
+  line-height: 1.6;
+}
