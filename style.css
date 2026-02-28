@@ -662,15 +662,9 @@ html {
 }
 
 .projects-description{
-  max-width: 520px;
-  margin: 0 auto 28px auto;
-  text-align: center;
+  max-width: 520px;          /* ajusta: 480–600 según gusto */
+  margin: 0 auto 28px auto;  /* centrado + separación hacia las cards */
+  text-align: left;
   line-height: 1.6;
 }
 
-.projects-description{
-  max-width: 520px;          /* ajusta: 480–600 según gusto */
-  margin: 0 auto 28px auto;  /* centrado + separación hacia las cards */
-  text-align: center;
-  line-height: 1.6;
-}
